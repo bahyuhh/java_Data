@@ -1,0 +1,400 @@
+Nama: FABIANUS VALDIANDARU
+NISN: 0059270453
+Nilai Indonesia: 83
+Nilai Matematika: 88
+Nilai Inggris: 81
+Nilai Produktif: 88
+------------------------
+Nilai Total: 340
+Ranking: 1
+------------------------
+Nama: FAJAR EKA SANDIYUDA
+NISN: 0057625202
+Nilai Indonesia: 80
+Nilai Matematika: 83
+Nilai Inggris: 78
+Nilai Produktif: 92
+------------------------
+Nilai Total: 333
+Ranking: 2
+------------------------
+Nama: HASTA RATNAWATI
+NISN: 0059984402
+Nilai Indonesia: 82
+Nilai Matematika: 88
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 330
+Ranking: 3
+------------------------
+Nama: GALIH KRIDO PAMUNGKAS
+NISN: 0061218546
+Nilai Indonesia: 80
+Nilai Matematika: 85
+Nilai Inggris: 81
+Nilai Produktif: 83
+------------------------
+Nilai Total: 329
+Ranking: 4
+------------------------
+Nama: DAYSYAFA DENIEL AGNI
+NISN: 0061762195
+Nilai Indonesia: 82
+Nilai Matematika: 81
+Nilai Inggris: 77
+Nilai Produktif: 88
+------------------------
+Nilai Total: 328
+Ranking: 5
+------------------------
+Nama: ALDILA HASNA SALSABILA
+NISN: 0051183071
+Nilai Indonesia: 85
+Nilai Matematika: 82
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 327
+Ranking: 6
+------------------------
+Nama: CANDRA HAFIZ SYAHPUTRA
+NISN: 0057352652
+Nilai Indonesia: 84
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 87
+------------------------
+Nilai Total: 327
+Ranking: 7
+------------------------
+Nama: FAREN RADITYA RAMADAN
+NISN: 0051730562
+Nilai Indonesia: 84
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 88
+------------------------
+Nilai Total: 327
+Ranking: 8
+------------------------
+Nama: GAGAH IRLANGSA EKA YUANATA
+NISN: 0059388638
+Nilai Indonesia: 81
+Nilai Matematika: 83
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 324
+Ranking: 9
+------------------------
+Nama: ANGGI NIMAS PRAMESTI
+NISN: 0054094836
+Nilai Indonesia: 83
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 84
+------------------------
+Nilai Total: 323
+Ranking: 10
+------------------------
+Nama: ENWA WAHYU ADITAMA
+NISN: 0062914511
+Nilai Indonesia: 84
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 323
+Ranking: 11
+------------------------
+Nama: FENDRIANSYAH AKBAR FIRDAUS
+NISN: 0059056624
+Nilai Indonesia: 83
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 84
+------------------------
+Nilai Total: 322
+Ranking: 12
+------------------------
+Nama: HAMDAN DIRGANTORO
+NISN: 0059654867
+Nilai Indonesia: 83
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 322
+Ranking: 13
+------------------------
+Nama: INTAN AYU NURCAHYA
+NISN: 0059900232
+Nilai Indonesia: 82
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 84
+------------------------
+Nilai Total: 322
+Ranking: 14
+------------------------
+Nama: ISNA NUR LAILI MUFRIDA
+NISN: 0055105670
+Nilai Indonesia: 83
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 321
+Ranking: 15
+------------------------
+Nama: AKHDAN MUSTOFA
+NISN: 0051676812
+Nilai Indonesia: 82
+Nilai Matematika: 82
+Nilai Inggris: 77
+Nilai Produktif: 79
+------------------------
+Nilai Total: 320
+Ranking: 16
+------------------------
+Nama: ALI ARIANSYAH PUTRA PRATAMA
+NISN: 0053994236
+Nilai Indonesia: 83
+Nilai Matematika: 82
+Nilai Inggris: 77
+Nilai Produktif: 78
+------------------------
+Nilai Total: 320
+Ranking: 17
+------------------------
+Nama: DOA MUZA ALFATEH
+NISN: 0054500529
+Nilai Indonesia: 85
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 79
+------------------------
+Nilai Total: 320
+Ranking: 18
+------------------------
+Nama: FAHREZY RAJA SURYA APRIANSA
+NISN: 0053366271
+Nilai Indonesia: 83
+Nilai Matematika: 84
+Nilai Inggris: 78
+Nilai Produktif: 75
+------------------------
+Nilai Total: 320
+Ranking: 19
+------------------------
+Nama: HENDYKA KURNIADI
+NISN: 0053386615
+Nilai Indonesia: 83
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 82
+------------------------
+Nilai Total: 320
+Ranking: 20
+------------------------
+Nama: ANGGI PUTRI WIDYANINGRUM
+NISN: 0055172195
+Nilai Indonesia: 84
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 79
+------------------------
+Nilai Total: 319
+Ranking: 21
+------------------------
+Nama: DESI BERLIANAWATI
+NISN: 0048206280
+Nilai Indonesia: 80
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 319
+Ranking: 22
+------------------------
+Nama: ELLA FAJAR RIANI
+NISN: 0047689379
+Nilai Indonesia: 81
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 83
+------------------------
+Nilai Total: 319
+Ranking: 23
+------------------------
+Nama: DWI ACHMAD NIEZAM
+NISN: 0056263332
+Nilai Indonesia: 84
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 78
+------------------------
+Nilai Total: 318
+Ranking: 24
+------------------------
+Nama: GALIH PANCA LUHUNG SUBEKTI
+NISN: 0061458873
+Nilai Indonesia: 80
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 82
+------------------------
+Nilai Total: 317
+Ranking: 25
+------------------------
+Nama: BAYU HERI SEPTIAWAN
+NISN: 0054384125
+Nilai Indonesia: 78
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 82
+------------------------
+Nilai Total: 316
+Ranking: 26
+------------------------
+Nama: CAMELIA RIZKY ISLAMI
+NISN: 0065683854
+Nilai Indonesia: 83
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 77
+------------------------
+Nilai Total: 316
+Ranking: 27
+------------------------
+Nama: FIRNANDA SYILVIA RESTY ERLIEANSYAH
+NISN: 0053440521
+Nilai Indonesia: 82
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 79
+------------------------
+Nilai Total: 316
+Ranking: 28
+------------------------
+Nama: ARA DYAH WIRASTANIA
+NISN: 0051259250
+Nilai Indonesia: 80
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 79
+------------------------
+Nilai Total: 314
+Ranking: 29
+------------------------
+Nama: INTANA PUTRI NADEWI
+NISN: 0055887519
+Nilai Indonesia: 83
+Nilai Matematika: 77
+Nilai Inggris: 77
+Nilai Produktif: 77
+------------------------
+Nilai Total: 314
+Ranking: 30
+------------------------
+Nama: AKHMAD SALAFUDIN
+NISN: 0062405426
+Nilai Indonesia: 81
+Nilai Matematika: 79
+Nilai Inggris: 77
+Nilai Produktif: 75
+------------------------
+Nilai Total: 312
+Ranking: 31
+------------------------
+Nama: ARYA DHANI DWI KUSUMA
+NISN: 0059874044
+Nilai Indonesia: 82
+Nilai Matematika: 77
+Nilai Inggris: 78
+Nilai Produktif: 75
+------------------------
+Nilai Total: 312
+Ranking: 32
+------------------------
+Nama: AMIRUN IKHSAN
+NISN: 0043527127
+Nilai Indonesia: 78
+Nilai Matematika: 77
+Nilai Inggris: 77
+Nilai Produktif: 79
+------------------------
+Nilai Total: 311
+Ranking: 33
+------------------------
+Nama: FAREL PRASETYO AJI
+NISN: 0062106578
+Nilai Indonesia: 80
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 75
+------------------------
+Nilai Total: 310
+Ranking: 34
+------------------------
+Nama: FEBRIAN SHANDY PRAMANDA
+NISN: 0069551606
+Nilai Indonesia: 82
+Nilai Matematika: 76
+Nilai Inggris: 77
+Nilai Produktif: 75
+------------------------
+Nilai Total: 310
+Ranking: 35
+------------------------
+Nama: DHINI SURYA NING SANTOSO
+NISN: 0069667971
+Nilai Indonesia: 77
+Nilai Matematika: 78
+Nilai Inggris: 77
+Nilai Produktif: 77
+------------------------
+Nilai Total: 309
+Ranking: 36
+------------------------
+Nama: BEKTI PUTRA WAHYUDI
+NISN: 0053499859
+Nilai Indonesia: 78
+Nilai Matematika: 77
+Nilai Inggris: 77
+Nilai Produktif: 75
+------------------------
+Nilai Total: 307
+Ranking: 37
+------------------------
+Nama: 
+NISN: 
+Nilai Indonesia: 0
+Nilai Matematika: 0
+Nilai Inggris: 0
+Nilai Produktif: 0
+------------------------
+Nilai Total: 0
+Ranking: 38
+------------------------
+Nama: 
+NISN: 
+Nilai Indonesia: 0
+Nilai Matematika: 0
+Nilai Inggris: 0
+Nilai Produktif: 0
+------------------------
+Nilai Total: 0
+Ranking: 39
+------------------------
+Nama: 
+NISN: 
+Nilai Indonesia: 0
+Nilai Matematika: 0
+Nilai Inggris: 0
+Nilai Produktif: 0
+------------------------
+Nilai Total: 0
+Ranking: 40
+------------------------
